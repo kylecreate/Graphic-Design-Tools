@@ -56,13 +56,42 @@
 * [Error 404 Illustrations](https://error404.fun/)
 
 ## 🗿 Inspiration
-* Text
+* [Behance](https://www.behance.net/)
+* [Letterform Archive](https://oa.letterformarchive.org/)
+* [CSA Images](https://www.csaimages.com/index.asp)
+* [Walker Art Magazine](https://walkerart.org/magazine)
+* [Hi-Fructose Magazine](https://hifructose.com/)
+* [Creative Boom](https://www.creativeboom.com/)
+* [Creative Review](https://www.creativereview.co.uk/)
+* [Its Nice That](https://www.itsnicethat.com/)
+* [Plastik Magazine](https://www.plastikcombmag.com/)
+* [Branding Guides Archives](https://brandingstyleguides.com/)
+* [Pentagram - Design Agency](https://www.pentagram.com/work)
+* [Everyday Practice - Korean Design Agency](https://everyday-practice.com/)
+* [IBM Design](https://www.ibm.com/design/practices/)
+* [Dribbble](https://dribbble.com/)
+* [Muzli](https://muz.li/)
+* [Awwwards](https://www.awwwards.com/)
+* [Portfolio Inspriration](https://pfolios.net/)
+* [Use Panda](https://usepanda.com/)
+* [Search System](https://www.searchsystem.co/)
+* [Seso's Weekly Moodboards](https://www.sesohq.com/inspiration)
+* [Identity Designed](https://identitydesigned.com/)
 
 ## 💼 Interview Prep
-* Text
+* [15 Design Interview Questions - toptal.com](https://www.toptal.com/designers/graphic/interview-questions)
+* [Design Interview Questions - Linkedin.com](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/designer/interview-questions)
+* [10 Essential Interview Questions - dribbble.com](https://dribbble.com/resources/graphic-design-interview-questions)
+* [How to Crush that job interview - r/CoolGuides](https://www.reddit.com/r/coolguides/comments/om3o4t/how_to_crush_that_job_interview/)
 
 ## 🖥️ Mockups
-* Text
+* [Mockup World](https://www.mockupworld.co/)
+* [is Graphics](https://www.ls.graphics/free-mockups)
+* [GraphBerry](https://www.graphberry.com/)
+* [MockupFree](https://mockupfree.co/allmockups)
+* [Good Mockups](https://goodmockups.com/)
+* [Free PSD Templates](https://free-psd-templates.com/)
+* [Graphic Burger](https://graphicburger.com/)
 
 ## 🛠️ Resources
 * [Hey Designer News](https://heydesigner.com/)
@@ -70,6 +99,12 @@
 * [BriefBox](https://www.briefbox.me/)
 * [Design Documenteries](https://designers.watch/)
 * [Creative Bloq](https://www.creativebloq.com/)
+* [Dictanory](https://www.merriam-webster.com/)
+* [Text Editor](https://hemingwayapp.com/)
+* [More Design Resources](https://designresourc.es/)
+* [Thesaurus](https://www.thesaurus.com/)
+* [Photoshop Brushes](https://www.brusheezy.com/)
+* 
 
 ## 📸 Stock Photos & Other
 * Text
