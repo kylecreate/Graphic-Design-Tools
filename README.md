@@ -1,5 +1,7 @@
 # Personal-Design-Tools
 
+📑
+
 ## 👨‍💻 Coding Tools
 * [GitLab](https://about.gitlab.com/)
 * [Stack Overflow](https://stackoverflow.com/)
@@ -25,7 +27,7 @@
 * [Colormind](http://colormind.io/)
 * [Colorable Generator](https://colorable.jxnblk.com/)
 
-## Fonts
+## 🔤 Fonts
 * [Google Fonts](https://fonts.google.com/)
 * [Just My Type](https://justmytype.co/)
 * [Bunny Fonts](https://fonts.bunny.net/)
@@ -36,7 +38,7 @@
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Fonts in Use - Real World Applications](https://fontsinuse.com/)
 
-## Icons
+## 🔆 Icons
 * [Noun Project](https://thenounproject.com/)
 * [Remix Icon](https://remixicon.com/)
 * [Pattern Monster](https://pattern.monster/)
@@ -46,31 +48,31 @@
 * [Icons8](https://icons8.com/)
 * [Iconoir](https://iconoir.com/)
 
-## Illustrations
+## 🖍️ Illustrations
 * [Undraw](https://undraw.co/illustrations)
 * [DrawKit](https://www.drawkit.com/)
 * [Blush](https://blush.design/)
 * [Humaaans](https://www.humaaans.com/)
 * [Error 404 Illustrations](https://error404.fun/)
 
-## Inspiration
+## 🗿 Inspiration
 * Text
 
-## Interview Prep
+## 💼 Interview Prep
 * Text
 
-## Mockups
+## 🖥️ Mockups
 * Text
 
-## Resources
+## 🛠️ Resources
 * [Hey Designer News](https://heydesigner.com/)
 * [Designer News](https://www.designernews.co/)
 * [BriefBox](https://www.briefbox.me/)
 * [Design Documenteries](https://designers.watch/)
 * [Creative Bloq](https://www.creativebloq.com/)
 
-## Stock Photos & Other
+## 📸 Stock Photos & Other
 * Text
 
-## Personal Links
+## 👨‍🎨 Personal Links
 * Text
