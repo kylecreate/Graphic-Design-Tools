@@ -18,6 +18,7 @@
 * [SkillShare](https://www.skillshare.com/)
 * [LinkedIN Learning](https://www.linkedin.com/learning/)
 * [Random Photoshop Tutorials](https://www.youtube.com/playlist?list=PLYd3hG1pR-_P-U3VSzi6NWwurcz_6zo20)
+* [Degreeless Designs](https://www.degreeless.design/)
 
 ## 🎨 Colors
 * [Color Wheel - Sessions College](https://www.sessions.edu/color-calculator/)
@@ -37,6 +38,7 @@
 * [Identify Fonts](http://www.identifont.com/)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Fonts in Use - Real World Applications](https://fontsinuse.com/)
+* [Emigre Fonts](https://www.emigre.com/)
 
 ## 🔆 Icons
 * [Noun Project](https://thenounproject.com/)
@@ -104,10 +106,37 @@
 * [More Design Resources](https://designresourc.es/)
 * [Thesaurus](https://www.thesaurus.com/)
 * [Photoshop Brushes](https://www.brusheezy.com/)
-* 
+* [Vector Logos](https://www.brandsoftheworld.com/)
+* [fffuel - Design Resources](https://fffuel.co/)
+* [Sharpen Design (Generator)](https://sharpen.design/)
+* [Gumroad](https://discover.gumroad.com/)
+* [Github Design Resources](https://github.com/MohamedYoussouf/Design-Resources)
+* [500+ ChatGPT Prompts](https://ignacio-velasquez.notion.site/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
+* [200+ Design ChatGPT Prompts](https://truth-mist-a8d.notion.site/200-ChatGPT-Designer-Prompts-Ideas-a73aedabee824beaafe4ade7f73c186c)
+* [300+ Graphic Design Resources](https://ignacio-velasquez.notion.site/300-Graphic-Design-Resources-550d336ccbeb45e898cf582c5c25b4d9)
+* [GFX Database](https://www.gfxdatabase.com/)
+* [Generated Briefs](https://www.briefz.biz/)
+* [Emojis](https://emojipedia.org/)
+* [ChatGPT (OpenAI)](https://chat.openai.com/)
 
 ## 📸 Stock Photos & Other
-* Text
+* [Textures](https://texturelabs.org/)
+* [Texture Ninja](https://texture.ninja/)
+* [Wild Textures](https://wildtextures.com/)
+* [Free Stock Images](https://allthefreestock.com/)
+* [Pexels](https://www.pexels.com/)
+* [Umsplash](https://unsplash.com/)
+* [Pixabay](https://pixabay.com/)
+* [Getty Images](https://www.gettyimages.com/)
+* [PNG Images](https://pngimg.com/)
+* [Nappy - Minority stock images](https://nappy.co/)
+* [OpenVerse](https://openverse.org/)
+* [NYPL Digital Collections](https://digitalcollections.nypl.org/)
 
 ## 👨‍🎨 Personal Links
-* Text
+* [Personal LinkedIN](https://www.linkedin.com/in/kylecreate/)
+* [Personal Portfolio](https://kylecreate.art/)
+* [Behance Portfolio](https://www.behance.net/kylecreate)
+* [Graphic Design Job Postings](https://www.peopleperhour.com/)
+* [If you Could - Job Board](https://www.ifyoucouldjobs.com/)
+* [List of Volunteer Sites](https://techjobsforgood.com/blog/guide-to-finding-tech-volunteer-opportunities-at-nonprofits?ref=ruxdesign)
