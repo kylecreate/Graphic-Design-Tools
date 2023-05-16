@@ -39,6 +39,7 @@
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Fonts in Use - Real World Applications](https://fontsinuse.com/)
 * [Emigre Fonts](https://www.emigre.com/)
+* [Font Joy Generator - Best Pairing](https://fontjoy.com/)
 
 ## 🔆 Icons
 * [Noun Project](https://thenounproject.com/)
