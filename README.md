@@ -50,6 +50,7 @@
 * [Feather Icons](https://feathericons.com/)
 * [Icons8](https://icons8.com/)
 * [Iconoir](https://iconoir.com/)
+* [Phosphor Icons](https://phosphoricons.com/)
 
 ## 🖍️ Illustrations
 * [Undraw](https://undraw.co/illustrations)
