@@ -1,6 +1,4 @@
-# Personal-Design-Tools
-
-📑
+# 📑 Personal Design Tools
 
 ## 👨‍💻 Coding Tools
 * [GitLab](https://about.gitlab.com/)
@@ -24,6 +22,9 @@
 * [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
 * [Graphic Design - Coursera](https://www.coursera.org/specializations/graphic-design)
 * [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* [Ringling College of Art & Design; BFA Graphic Design Courses](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
+* [University of Tampa; Bachelor of Graphic Design Courses](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
+* [FullSail University; Bachelor of Graphic Design Courses](https://catalog.fullsail.edu/degrees/art-design/bachelor-of-science/graphic-design-bachelor-of-science-campus)
 
 ## 🎨 Colors
 * [Color Wheel - Sessions College](https://www.sessions.edu/color-calculator/)
@@ -86,6 +87,8 @@
 * [Search System](https://www.searchsystem.co/)
 * [Seso's Weekly Moodboards](https://www.sesohq.com/inspiration)
 * [Identity Designed](https://identitydesigned.com/)
+* [Graphic Design USA Magazine](https://gdusa.com)
+* [Print Magazine](https://www.printmag.com/)
 
 ## 💼 Interview Prep
 * [15 Design Interview Questions - toptal.com](https://www.toptal.com/designers/graphic/interview-questions)
