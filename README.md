@@ -10,15 +10,20 @@
 * [Lorem Ipsum Generator](https://lipsum.com/)
 * [Embeded Google Maps](https://www.embedgooglemap.net/)
 
-## 🧠 Courses/Learning
-* [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
-* [Graphic Design - Coursera](https://www.coursera.org/specializations/graphic-design)
-* [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
+## 🧠 Learning
 * [uDemy](https://www.udemy.com/)
 * [SkillShare](https://www.skillshare.com/)
 * [LinkedIN Learning](https://www.linkedin.com/learning/)
 * [Random Photoshop Tutorials](https://www.youtube.com/playlist?list=PLYd3hG1pR-_P-U3VSzi6NWwurcz_6zo20)
 * [Degreeless Designs](https://www.degreeless.design/)
+
+### Courses
+* [Graphic Design Masterclass Intermediate - uDemy](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/)
+* [Learning the entire Affinity Suite - uDemy](https://www.udemy.com/course/learn-the-entire-affinity-suite-photo-designer-publisher/)
+* [Practical Graphic Design Projects - uDemy](https://www.udemy.com/course/master-graphic-design-through-projects-beginner-to-advanced/)
+* [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
+* [Graphic Design - Coursera](https://www.coursera.org/specializations/graphic-design)
+* [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ## 🎨 Colors
 * [Color Wheel - Sessions College](https://www.sessions.edu/color-calculator/)
