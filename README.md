@@ -25,6 +25,8 @@
 * [Ringling College of Art & Design; BFA Graphic Design Courses](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
 * [University of Tampa; Bachelor of Graphic Design Courses](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
 * [FullSail University; Bachelor of Graphic Design Courses](https://catalog.fullsail.edu/degrees/art-design/bachelor-of-science/graphic-design-bachelor-of-science-campus)
+* [USF; BFA Graphic Design Courses](https://catalog.usf.edu/preview_program.php?catoid=17&poid=7392&returnto=2603)
+* [UF; BFA Graphic Design Courses](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/#modelsemesterplantext)
 
 ## 🎨 Colors
 * [Color Wheel - Sessions College](https://www.sessions.edu/color-calculator/)
