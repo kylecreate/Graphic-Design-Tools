@@ -15,18 +15,23 @@
 * [Random Photoshop Tutorials](https://www.youtube.com/playlist?list=PLYd3hG1pR-_P-U3VSzi6NWwurcz_6zo20)
 * [Degreeless Designs](https://www.degreeless.design/)
 
-### Courses
+### Online Courses
 * [Graphic Design Masterclass Intermediate - uDemy](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/)
 * [Learning the entire Affinity Suite - uDemy](https://www.udemy.com/course/learn-the-entire-affinity-suite-photo-designer-publisher/)
 * [Practical Graphic Design Projects - uDemy](https://www.udemy.com/course/master-graphic-design-through-projects-beginner-to-advanced/)
 * [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
 * [Graphic Design - Coursera](https://www.coursera.org/specializations/graphic-design)
 * [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
+
+### College Courses
+This is mainly for looking at what colleges are teaching and to find similair courses online (if possible). These are all in Florida, willing to add others if suggested.
 * [Ringling College of Art & Design; BFA Graphic Design Courses](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
 * [University of Tampa; Bachelor of Graphic Design Courses](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
 * [FullSail University; Bachelor of Graphic Design Courses](https://catalog.fullsail.edu/degrees/art-design/bachelor-of-science/graphic-design-bachelor-of-science-campus)
 * [University of South Florida; BFA Graphic Design Courses](https://catalog.usf.edu/preview_program.php?catoid=17&poid=7392&returnto=2603)
 * [University of Florida; BFA Graphic Design Courses](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/#modelsemesterplantext)
+* [University of Centeral Florida; BA of Graphic Design Courses](https://www.ucf.edu/degree/emerging-media-bfa/graphic-design-track/)
+* [Florida International University; BFA Graphic Design Courses](https://carta.fiu.edu/arts/degree-programs-and-deadlines/undergraduate/bfa-in-art/#tab-88c0619b14903ba6557)
 
 ## 🎨 Colors
 * [Color Wheel - Sessions College](https://www.sessions.edu/color-calculator/)
