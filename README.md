@@ -10,34 +10,21 @@ Last Updated: 5/23/23
 * [Stack Overflow](https://stackoverflow.com/)
 * [W3 Schools](https://www.w3schools.com/)
 
-## 🧠 Learning
-* [Degreeless Designs](https://www.degreeless.design/)
-* [Random YouTube Photoshop Tutorials](https://www.youtube.com/playlist?list=PLYd3hG1pR-_P-U3VSzi6NWwurcz_6zo20)
-* [uDemy](https://www.udemy.com/)
-* [SkillShare](https://www.skillshare.com/)
-
-### Online Courses
-* [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
-* [Graphic Design - Coursera](https://www.coursera.org/specializations/graphic-design)
-* [Graphic Design Masterclass Intermediate - uDemy](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/)
-* [Learning the entire Affinity Suite - uDemy](https://www.udemy.com/course/learn-the-entire-affinity-suite-photo-designer-publisher/)
-* [Practical Graphic Design Projects - uDemy](https://www.udemy.com/course/master-graphic-design-through-projects-beginner-to-advanced/)
-* [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
-
-### College Courses
-This is mainly for looking at what colleges are teaching and to find similair courses online (if possible). These are all in Florida, willing to add others if suggested.
-* [California Institute of the Arts; BA of Graphic Design](https://calarts.edu/academics/registrar/academic-requirements/school-of-art#design)
-* [Florida International University; BFA Graphic Design](https://carta.fiu.edu/arts/degree-programs-and-deadlines/undergraduate/bfa-in-art/#tab-88c0619b14903ba6557)
-* [FullSail University; Bachelor of Graphic Design](https://catalog.fullsail.edu/degrees/art-design/bachelor-of-science/graphic-design-bachelor-of-science-campus)
-* [Ringling College of Art & Design; BFA Graphic Design](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
-* [University of Centeral Florida; BA of Graphic Design](https://www.ucf.edu/degree/emerging-media-bfa/graphic-design-track/)
-* [University of Florida; BFA Graphic Design](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/#modelsemesterplantext)
-* [University of South Florida; BFA Graphic Design](https://catalog.usf.edu/p_program.php?catoid=17&poid=7392&returnto=2603)
-* [University of Tampa; Bachelor of Graphic Design](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
+## 🧑‍🤝‍🧑 Collaboration
+* [Asana](https://asana.com/)
+* [Discord](https://discord.com/)
+* [Monday.com](https://monday.com/)
+* [NextCloud](https://nextcloud.com/)
+* [Notion](https://www.notion.so/)
+* [Slack](https://slack.com/)
+* [Trello](https://trello.com/)
+* [WhiteBoard](https://www.witeboard.com/)
 
 ## 🎨 Colors
+* [Brand Colors](https://brandcolors.net/)
 * [Coolors](https://coolors.co/)
 * [Colorable Generator](https://colorable.jxnblk.com/)
+* [Color Hex Picker](http://colorhexpicker.com/)
 * [Color Wheel - Sessions College](https://www.sessions.edu/color-calculator/)
 * [Colormind](http://colormind.io/)
 * [SchemeColor](https://www.schemecolor.com/)
@@ -56,6 +43,31 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Lost Type](https://losttype.com/)
 * [Urban Fonts](https://www.urbanfonts.com/)
 
+## 🧠 Learning
+* [Degreeless Designs](https://www.degreeless.design/)
+* [Random YouTube Photoshop Tutorials](https://www.youtube.com/playlist?list=PLYd3hG1pR-_P-U3VSzi6NWwurcz_6zo20)
+* [uDemy](https://www.udemy.com/)
+* [SkillShare](https://www.skillshare.com/)
+
+### College Courses
+This is mainly for looking at what colleges are teaching and to find similair courses online (if possible). These are all in Florida, willing to add others if suggested.
+* [California Institute of the Arts; BA of Graphic Design](https://calarts.edu/academics/registrar/academic-requirements/school-of-art#design)
+* [Florida International University; BFA Graphic Design](https://carta.fiu.edu/arts/degree-programs-and-deadlines/undergraduate/bfa-in-art/#tab-88c0619b14903ba6557)
+* [FullSail University; Bachelor of Graphic Design](https://catalog.fullsail.edu/degrees/art-design/bachelor-of-science/graphic-design-bachelor-of-science-campus)
+* [Ringling College of Art & Design; BFA Graphic Design](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
+* [University of Centeral Florida; BA of Graphic Design](https://www.ucf.edu/degree/emerging-media-bfa/graphic-design-track/)
+* [University of Florida; BFA Graphic Design](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/#modelsemesterplantext)
+* [University of South Florida; BFA Graphic Design](https://catalog.usf.edu/p_program.php?catoid=17&poid=7392&returnto=2603)
+* [University of Tampa; Bachelor of Graphic Design](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
+
+### Online Courses
+* [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
+* [Graphic Design - Coursera](https://www.coursera.org/specializations/graphic-design)
+* [Graphic Design Masterclass Intermediate - uDemy](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/)
+* [Learning the entire Affinity Suite - uDemy](https://www.udemy.com/course/learn-the-entire-affinity-suite-photo-designer-publisher/)
+* [Practical Graphic Design Projects - uDemy](https://www.udemy.com/course/master-graphic-design-through-projects-beginner-to-advanced/)
+* [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
+
 ## 🔆 Icons
 * [Feather Icons](https://feathericons.com/)
 * [Flat Icon](https://www.flaticon.com/)
@@ -67,13 +79,6 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Remix Icon](https://remixicon.com/)
 * [Simple Icons](https://simpleicons.org/)
 
-## 🖍️ Illustrations
-* [Blush](https://blush.design/)
-* [DrawKit](https://www.drawkit.com/)
-* [Error 404 Illustrations](https://error404.fun/)
-* [Humaaans](https://www.humaaans.com/)
-* [Undraw](https://undraw.co/illustrations)
-
 ## 🗿 Inspiration
 * [Awwwards](https://www.awwwards.com/)
 * [Behance](https://www.behance.net/)
@@ -81,6 +86,7 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Creative Boom](https://www.creativeboom.com/)
 * [Creative Review](https://www.creativereview.co.uk/)
 * [CSA Images](https://www.csaimages.com/index.asp)
+* [Design Hunt](https://designhunt.us/)
 * [Dribbble](https://dribbble.com/)
 * [Everyday Practice - Korean Design Agency](https://everyday-practice.com/)
 * [Graphic Design USA Magazine](https://gdusa.com)
@@ -94,16 +100,45 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Plastik Magazine](https://www.plastikcombmag.com/)
 * [Portfolio Inspriration](https://pfolios.net/)
 * [Print Magazine](https://www.printmag.com/)
+* [TypeWolf](https://www.typewolf.com/)
 * [Walker Art Magazine](https://walkerart.org/magazine)
 * [Search System](https://www.searchsystem.co/)
 * [Seso's Weekly Moodboards](https://www.sesohq.com/inspiration)
 * [Use Panda](https://usepanda.com/)
+* [Web Design Museum](https://www.webdesignmuseum.org/)
 
 ## 💼 Interview Prep
 * [10 Essential Interview Questions - dribbble.com](https://dribbble.com/resources/graphic-design-interview-questions)
 * [15 Design Interview Questions - toptal.com](https://www.toptal.com/designers/graphic/interview-questions)
 * [Design Interview Questions - Linkedin.com](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/designer/interview-questions)
 * [How to Crush that job interview - r/CoolGuides](https://www.reddit.com/r/coolguides/comments/om3o4t/how_to_crush_that_job_interview/)
+
+## 🖍️ Illustrations
+* [Blush](https://blush.design/)
+* [DrawKit](https://www.drawkit.com/)
+* [Error 404 Illustrations](https://error404.fun/)
+* [Humaaans](https://www.humaaans.com/)
+* [Undraw](https://undraw.co/illustrations)
+
+## 🎙️ Podcasts on Design
+Linking to their websites since there's so many places to find the episodes.
+* [The Angry Desgner](https://theangrydesigner.com/)
+
+## 💾 Programs for Designing
+* [Adobe Creative Cloud](https://www.adobe.com/) - Monthly subscription service
+* [Affinity](https://affinity.serif.com/en-us/) - One Time Payment Photoshop/Illustrator/InDesign replacement
+* [Audacity](https://www.audacityteam.org/) - Free sound editor
+* [Blender](https://www.blender.org/) - Free
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Freemium
+* [Figma](https://www.figma.com/) - Free/Subscription based
+* [Framer](https://www.framer.com/) - Free/Subscription based
+* [GIMP](https://www.gimp.org/) - Free
+* [Kdenlive](https://alternativeto.net/software/kdenlive/about/) - Free
+* [Krita](https://krita.org/) - Free
+* [Notepad++](https://notepad-plus-plus.org/downloads/) - Free & open source code editor
+* [PhotoPea](https://www.photopea.com/) - Free
+* [Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) - Monthly subscription service
+* [VSCodium](https://vscodium.com/) - Open Source distribution of Microsoft’s editor VSCode
 
 ## 🖥️ Mockups
 * [Free PSD Templates](https://free-psd-templates.com/)
@@ -152,6 +187,9 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Unsplash](https://unsplash.com/)
 * [Wild Textures](https://wildtextures.com/)
 
-## 🎙️ Podcasts on Design
-Linking to their websites since there's so many places to find the episodes.
-* [The Angry Desgner](https://theangrydesigner.com/)
+## 📹 Screenshot/Recording Software
+* [CleanShot](https://getcleanshot.com/)
+* [GreenShot](https://getgreenshot.org/)
+* [LightShot](https://app.prntscr.com/en/index.html)
+* [OBS](https://obsproject.com/)
+* [ShareX](https://getsharex.com/)
