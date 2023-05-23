@@ -138,19 +138,20 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Thesaurus](https://www.thesaurus.com/)
 * [Vector Logos](https://www.brandsoftheworld.com/)
 
-## 📸 Stock Photos & Other
-* [Textures](https://texturelabs.org/)
-* [Texture Ninja](https://texture.ninja/)
-* [Wild Textures](https://wildtextures.com/)
+## 📸 Stock Photos & Textures
 * [Free Stock Images](https://allthefreestock.com/)
-* [Pexels](https://www.pexels.com/)
-* [Umsplash](https://unsplash.com/)
-* [Pixabay](https://pixabay.com/)
 * [Getty Images](https://www.gettyimages.com/)
-* [PNG Images](https://pngimg.com/)
 * [Nappy - Minority stock images](https://nappy.co/)
-* [OpenVerse](https://openverse.org/)
 * [NYPL Digital Collections](https://digitalcollections.nypl.org/)
+* [OpenVerse](https://openverse.org/)
+* [Pixabay](https://pixabay.com/)
+* [PNG Images](https://pngimg.com/)
+* [Pexels](https://www.pexels.com/)
+* [Texture Labs](https://texturelabs.org/)
+* [Texture Ninja](https://texture.ninja/)
+* [Unsplash](https://unsplash.com/)
+* [Wild Textures](https://wildtextures.com/)
 
 ## 🎙️ Podcasts on Design
-* 
+Linking to their websites since there's so many places to find the episodes.
+* [The Angry Desgner](https://theangrydesigner.com/)
