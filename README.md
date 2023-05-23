@@ -1,4 +1,4 @@
-# 📑 Personal Design Tools
+# 📑 Graphic Design Tools
 Last Updated: 5/23/23
 
 ## 👨‍💻 Coding Tools
