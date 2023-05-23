@@ -120,6 +120,15 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Humaaans](https://www.humaaans.com/)
 * [Undraw](https://undraw.co/illustrations)
 
+## 🖥️ Mockups
+* [Free PSD Templates](https://free-psd-templates.com/)
+* [Good Mockups](https://goodmockups.com/)
+* [GraphBerry](https://www.graphberry.com/)
+* [Graphic Burger](https://graphicburger.com/)
+* [is Graphics](https://www.ls.graphics/free-mockups)
+* [Mockup World](https://www.mockupworld.co/)
+* [MockupFree](https://mockupfree.co/allmockups)
+
 ## 🎙️ Podcasts on Design
 Linking to their websites since there's so many places to find the episodes.
 * [The Angry Desgner](https://theangrydesigner.com/)
@@ -139,15 +148,6 @@ Linking to their websites since there's so many places to find the episodes.
 * [PhotoPea](https://www.photopea.com/) - Free
 * [Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) - Monthly subscription service
 * [VSCodium](https://vscodium.com/) - Open Source distribution of Microsoft’s editor VSCode
-
-## 🖥️ Mockups
-* [Free PSD Templates](https://free-psd-templates.com/)
-* [Good Mockups](https://goodmockups.com/)
-* [GraphBerry](https://www.graphberry.com/)
-* [Graphic Burger](https://graphicburger.com/)
-* [is Graphics](https://www.ls.graphics/free-mockups)
-* [Mockup World](https://www.mockupworld.co/)
-* [MockupFree](https://mockupfree.co/allmockups)
 
 ## 🛠️ Resources
 * [500+ ChatGPT Prompts](https://ignacio-velasquez.notion.site/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
@@ -193,3 +193,16 @@ Linking to their websites since there's so many places to find the episodes.
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [OBS](https://obsproject.com/)
 * [ShareX](https://getsharex.com/)
+
+## 💬 Social Media
+* [BlueSky](https://bsky.app/)
+* [Facebook](https://www.facebook.com/)
+* [Instagram](https://www.instagram.com/)
+* [LinkedIN](https://www.linkedin.com/)
+* [Mastodon](https://mastodon.social/)
+* [Pintrest](https://www.pinterest.com/)
+* [Reddit](https://www.reddit.com/)
+   - I suggest [r/Graphic_Design](https://www.reddit.com/r/graphic_design/), [r/DesignPorn](https://www.reddit.com/r/DesignPorn/), [r/Art](https://www.reddit.com/r/Art/), [r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/), [r/Design](https://www.reddit.com/r/Design/), and [r/Design_Critiques](https://www.reddit.com/r/design_critiques/), 
+* [T2](https://t2.social/)
+* [Tumblr](https://www.tumblr.com/)
+* [Twitter](https://www.twitter.com/)
