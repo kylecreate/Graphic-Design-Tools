@@ -1,5 +1,5 @@
 # 📑 Graphic Design Tools
-Last Updated: 5/23/23
+Last Updated: 5/26/23
 
 ## 👨‍💻 Coding Tools
 * [Embeded Google Maps](https://www.embedgooglemap.net/)
@@ -162,6 +162,7 @@ Linking to their websites since there's so many places to find the episodes.
 * [Hey Designer News](https://heydesigner.com/)
 * [Dictanory](https://www.merriam-webster.com/)
 * [fffuel - Design Resources](https://fffuel.co/)
+* [Freebies by People](https://freebies.bypeople.com/)
 * [Generated Briefs](https://www.briefz.biz/)
 * [GFX Database](https://www.gfxdatabase.com/)
 * [Github Design Resources by Mohamed Youssouf](https://github.com/MohamedYoussouf/Design-Resources)
