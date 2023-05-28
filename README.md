@@ -67,6 +67,9 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Learning the entire Affinity Suite - uDemy](https://www.udemy.com/course/learn-the-entire-affinity-suite-photo-designer-publisher/)
 * [Practical Graphic Design Projects - uDemy](https://www.udemy.com/course/master-graphic-design-through-projects-beginner-to-advanced/)
 * [Web Dev Bootcamp - uDemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* [The Odin Project - Web Devlopment](https://www.theodinproject.com/)
+* [FreeCodeCamp](https://www.freecodecamp.com/)
+* [SoloLearn](https://www.sololearn.com/)
 
 ## 🔆 Icons
 * [Feather Icons](https://feathericons.com/)
