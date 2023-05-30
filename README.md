@@ -198,14 +198,14 @@ Linking to their websites since there's so many places to find the episodes.
 * [ShareX](https://getsharex.com/)
 
 ## 💬 Social Media
-* [BlueSky](https://bsky.app/)
-* [Facebook](https://www.facebook.com/)
+* [BlueSky](https://bsky.app/) - Invite only right now
 * [Instagram](https://www.instagram.com/)
 * [LinkedIN](https://www.linkedin.com/)
 * [Mastodon](https://mastodon.social/)
+   - I suggest [.art](https://mastodon.art)
 * [Pintrest](https://www.pinterest.com/)
 * [Reddit](https://www.reddit.com/)
    - I suggest [r/Graphic_Design](https://www.reddit.com/r/graphic_design/), [r/DesignPorn](https://www.reddit.com/r/DesignPorn/), [r/Art](https://www.reddit.com/r/Art/), [r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/), [r/Design](https://www.reddit.com/r/Design/), and [r/Design_Critiques](https://www.reddit.com/r/design_critiques/), 
-* [T2](https://t2.social/)
+* [T2](https://t2.social/) - Invite only right now
 * [Tumblr](https://www.tumblr.com/)
 * [Twitter](https://www.twitter.com/)
