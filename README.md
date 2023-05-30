@@ -1,5 +1,4 @@
 # 📑 Graphic Design Tools
-Last Updated: 5/26/23
 
 ## 👨‍💻 Coding Tools
 * [Embeded Google Maps](https://www.embedgooglemap.net/)
