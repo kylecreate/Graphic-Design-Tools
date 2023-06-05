@@ -59,7 +59,7 @@ All books are linked to Good Reads
 * [SkillShare](https://www.skillshare.com/)
 
 ### College Courses
-This is mainly for looking at what colleges are teaching and to find similair courses online (if possible). These are all in Florida, willing to add others if suggested.
+This is mainly for looking at what colleges are teaching and to find similair courses online (if possible).
 * [Aburn University; BFA of Graphic Design](https://bulletin.auburn.edu/undergraduate/collegeofarchitecturedesignandconstruction/industrialandgraphicdesign/graphicdesign_major/)
 * [California Institute of the Arts; BA of Graphic Design](https://calarts.edu/academics/registrar/academic-requirements/school-of-art#design)
 * [Boise State University; BFA Graphic Design](https://www.boisestate.edu/coas-advising/degree-plans/art/graphic-design-bfa/)
