@@ -1,5 +1,15 @@
 # 📑 Graphic Design Tools
 
+## 📚 Books for Designers
+All books are linked to Good Reads
+* [Creativity, Inc. by Ed Catmull, Amy Wallace](https://www.goodreads.com/book/show/18077903-creativity-inc)
+* [Keep Going by Austin Kleon](https://www.goodreads.com/book/show/40591677-keep-going)
+* [Steal Like an Artist by Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist)
+* [How to use graphic design to sell... by Bierut Michael](https://www.goodreads.com/book/show/28030221-how-to-use-graphic-design-to-sell-things-explain-things-make-things-lo)
+* [Show Your Work! by Austin Kleon](https://www.goodreads.com/book/show/18290401-show-your-work)
+* [How To Be a Graphic Designer... by Adrian Shaughnessy](https://www.goodreads.com/book/show/164194.How_To_Be_a_Graphic_Designer_Without_Losing_Your_Soul)
+* [Good Books section on Design](https://www.goodbooks.io/categories/design)
+
 ## 👨‍💻 Coding Tools
 * [Embeded Google Maps](https://www.embedgooglemap.net/)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
