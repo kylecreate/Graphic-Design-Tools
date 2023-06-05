@@ -71,7 +71,6 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Pinceton University; All Visiual Arts classes](https://ua.princeton.edu/academic-units/program-visual-arts)
 * [Ringling College of Art & Design; BFA Graphic Design](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
 * [University of Centeral Florida; BA of Graphic Design](https://www.ucf.edu/degree/emerging-media-bfa/graphic-design-track/)
-* [University of California; Berkley
 * [University of Florida; BFA Graphic Design](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/#modelsemesterplantext)
 * [University of South Florida; BFA Graphic Design](https://catalog.usf.edu/p_program.php?catoid=17&poid=7392&returnto=2603)
 * [University of Tampa; Bachelor of Graphic Design](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
