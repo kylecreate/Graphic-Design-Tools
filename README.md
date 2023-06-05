@@ -144,6 +144,14 @@ This is mainly for looking at what colleges are teaching and to find similair co
 ## 🎙️ Podcasts on Design
 Linking to their websites since there's so many places to find the episodes.
 * [The Angry Desgner](https://theangrydesigner.com/)
+* [Design Better Podcast](https://www.designbetter.co/podcast)
+* [Design Nerds Anonymous](https://info.thinklab.design/podcasts)
+* [Did I do That?: Making Graphic Design & Mistakes](https://www.dididothat.design/)
+* [Creative Boom](https://www.creativeboom.com/podcast/)
+* [The Futur w/ Chris Do](https://thefutur.com/podcast)
+* [Design Details](https://designdetails.fm/)
+* [Design Matters](https://www.designmattersmedia.com/designmatters)
+* [Honest Designer's Podcast](https://www.designcuts.com/learning-hub/podcasts/honest-designers/)
 
 ## 💾 Programs for Designing
 * [Adobe Creative Cloud](https://www.adobe.com/) - Monthly subscription service
