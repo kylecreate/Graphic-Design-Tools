@@ -60,14 +60,22 @@ All books are linked to Good Reads
 
 ### College Courses
 This is mainly for looking at what colleges are teaching and to find similair courses online (if possible). These are all in Florida, willing to add others if suggested.
+* [Aburn University; BFA of Graphic Design](https://bulletin.auburn.edu/undergraduate/collegeofarchitecturedesignandconstruction/industrialandgraphicdesign/graphicdesign_major/)
 * [California Institute of the Arts; BA of Graphic Design](https://calarts.edu/academics/registrar/academic-requirements/school-of-art#design)
+* [Boise State University; BFA Graphic Design](https://www.boisestate.edu/coas-advising/degree-plans/art/graphic-design-bfa/)
+* [Duke University; Courses in Graphic Design - PDF](https://aahvs.duke.edu/undergraduate/majors/visual-arts)
 * [Florida International University; BFA Graphic Design](https://carta.fiu.edu/arts/degree-programs-and-deadlines/undergraduate/bfa-in-art/#tab-88c0619b14903ba6557)
 * [FullSail University; Bachelor of Graphic Design](https://catalog.fullsail.edu/degrees/art-design/bachelor-of-science/graphic-design-bachelor-of-science-campus)
+* [Indiana State University; BFA Graphic Design](https://catalog.indstate.edu/preview_program.php?catoid=32&poid=4913&returnto=868)
+* [Perdue University; Graphic Design Courses](https://www.cla.purdue.edu/academic/rueffschool/ad/vcd/Courses.html)
+* [Pinceton University; All Visiual Arts classes](https://ua.princeton.edu/academic-units/program-visual-arts)
 * [Ringling College of Art & Design; BFA Graphic Design](https://ringling.cleancatalog.net/graphic-design/graphic-design-bfa)
 * [University of Centeral Florida; BA of Graphic Design](https://www.ucf.edu/degree/emerging-media-bfa/graphic-design-track/)
+* [University of California; Berkley
 * [University of Florida; BFA Graphic Design](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/#modelsemesterplantext)
 * [University of South Florida; BFA Graphic Design](https://catalog.usf.edu/p_program.php?catoid=17&poid=7392&returnto=2603)
 * [University of Tampa; Bachelor of Graphic Design](https://ut.smartcatalogiq.com/Current/catalog/College-of-Arts-and-Letters/Department-of-Art/Graphic-Design/Bachelor-of-Fine-Arts-in-Graphic-Design)
+* [Yale University; MFA of Graphic Design](https://www.art.yale.edu/about/study-areas/graduate-study-areas/graphic-design)
 
 ### Online Courses
 * [Creative Writing - Coursera](https://www.coursera.org/specializations/creative-writing)
@@ -95,6 +103,7 @@ This is mainly for looking at what colleges are teaching and to find similair co
 * [Awwwards](https://www.awwwards.com/)
 * [Behance](https://www.behance.net/)
 * [Branding Guides Archives](https://brandingstyleguides.com/)
+* [Cal Arts Instagram](https://www.instagram.com/calartsgd)
 * [Creative Boom](https://www.creativeboom.com/)
 * [Creative Review](https://www.creativereview.co.uk/)
 * [CSA Images](https://www.csaimages.com/index.asp)
