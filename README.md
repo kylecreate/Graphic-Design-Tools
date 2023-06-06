@@ -9,6 +9,7 @@ All books are linked to Good Reads
 * [Show Your Work! by Austin Kleon](https://www.goodreads.com/book/show/18290401-show-your-work)
 * [How To Be a Graphic Designer... by Adrian Shaughnessy](https://www.goodreads.com/book/show/164194.How_To_Be_a_Graphic_Designer_Without_Losing_Your_Soul)
 * [Good Books section on Design](https://www.goodbooks.io/categories/design)
+* [GoodReads list on Graphic Design books](https://www.goodreads.com/list/show/85424.Graphic_Design)
 
 ## 👨‍💻 Coding Tools
 * [Embeded Google Maps](https://www.embedgooglemap.net/)
